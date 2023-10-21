@@ -26,10 +26,10 @@
         android:text="Invalid account"
         android:textColor="@color/textError"
         android:visibility="invisible"
-        app:layout_constraintBottom_toTopOf="@+id/edt_regis_email"
-        app:layout_constraintEnd_toEndOf="@+id/edt_regis_email"
+        app:layout_constraintBottom_toTopOf="@+id/edt_forgot_email"
+        app:layout_constraintEnd_toEndOf="@+id/edt_forgot_email"
         app:layout_constraintHorizontal_bias="0.034"
-        app:layout_constraintStart_toStartOf="@+id/edt_regis_email" />
+        app:layout_constraintStart_toStartOf="@+id/edt_forgot_email" />
 
     <ImageView
         android:id="@+id/imageView"
